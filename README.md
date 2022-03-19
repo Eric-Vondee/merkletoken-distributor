@@ -1,4 +1,4 @@
-#MERKLE PROOF TOKEN DISTRIBUTOR
+## MERKLE PROOF TOKEN DISTRIBUTOR
 This project aims to use the merkle proof/root mechanism to distribute to airdrop token(TROP) and also verify the contract on etherscan.
 
 
